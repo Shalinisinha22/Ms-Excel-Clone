@@ -9,6 +9,7 @@
 <li>Cycle detection in formula</li>
 <li>New open save functionality</li>
 <li>Cells formatting</li>
+  <li>User have access of 100 rows and 26 columns to work on.</li>
 </ul>
 
 ![Ms excel](https://user-images.githubusercontent.com/122859073/220099500-2b3297e2-3b3d-432d-b483-a58c0e73ce28.png)
