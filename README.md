@@ -8,7 +8,19 @@
 <li>Formula evaluation</li>
 <li>Cycle detection in formula</li>
 <li>New open save functionality</li>
-<li>Cells formatting</li>
+<li> Multiple Formatting Features to give the data the looks you desire.
+  <ul>
+   <li>Font Style and Font Size.</li>
+   <li>Alignment.</li>
+   <li>Bold, Italic and Underline.</li>
+    <li>Custom Background Color and Text Color.</li></ul>
+  </li>
+<li>User can use n numbers of unique sheets in a single Excel page.</li>
+<li>Each sheet will act as a complete new sheet, and whole excel page can be saved and accessed together.</li>
+    <li></li>
+    <li></li>
+    <li></li>
+  
 </ul>
 
 ![Ms excel](https://user-images.githubusercontent.com/122859073/220099500-2b3297e2-3b3d-432d-b483-a58c0e73ce28.png)
