@@ -17,9 +17,7 @@
   </li>
 <li>User can use n numbers of unique sheets in a single Excel page.</li>
 <li>Each sheet will act as a complete new sheet, and whole excel page can be saved and accessed together.</li>
-    <li></li>
-    <li></li>
-    <li></li>
+ 
   
 </ul>
 
