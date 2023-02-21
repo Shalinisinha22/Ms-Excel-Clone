@@ -1,13 +1,16 @@
 # Ms-Excel-Clone
 <h2>Excel Clone<h2>
 <h1><b>Description:</b><h1>
-<h4><b>It is a web application clone of Excel, created using HTML, CSS and Javscript entirely.</b><h4>
+<h4><b>It is a web application clone of Excel, created using HTML, CSS, DOM and Javscript entirely.</b><h4>
 
 <h4><b>Some features of this project are -</b><h4>
 <ul>
-<li>Formula evaluation</li>
-<li>Cycle detection in formula</li>
-<li>New open save functionality</li>
+<li>Two way binding(manipulation in both UI and storage(cell Properties)</li>
+<li>Formula Evaluation</li>
+<li>Cycle detection in formula(using graph algorithm)</li>
+<li>Cycle validation color tracking</li>
+<li>Multiple sheet handling</li>
+<li>New, open, download sheets functionality</li>
 <li> Multiple Formatting Features to give the data the looks you desire.
   <ul>
    <li>Font Style and Font Size.</li>
@@ -32,11 +35,16 @@
 
 <h2>Screenshots<h2>
 
-![Ms excel](https://user-images.githubusercontent.com/122859073/220100354-0e0b1144-9a71-4053-8a12-f6fb1397959e.png)
+
+![cell formatting](https://user-images.githubusercontent.com/122859073/220271793-0deacfd6-c0bc-43e0-82b9-e12dbc4d7b48.png)
+![formula](https://user-images.githubusercontent.com/122859073/220271823-ff00ad44-6164-4e48-ba63-3d2ea615a09c.png)
+![cycle detection](https://user-images.githubusercontent.com/122859073/220271924-ebbe34e0-e707-4b51-8935-2d43dcc8b06d.png)
 
 <h3>Here are my social media handles:<h3>
 
+
 Linkedin:https://www.linkedin.com/in/shalini-sinha-bbb943202/<br>
+
 Email:shalinisinha.cspatna@gmail.com
 
 <h4>Thank you!<h4>
