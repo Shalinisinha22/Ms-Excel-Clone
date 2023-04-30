@@ -1,5 +1,5 @@
 # Ms-Excel-Clone
-Project link: https://github.com/Shalinisinha22/Ms-Excel-Clone
+Project link:https://shalinisinha22.github.io/Ms-Excel-Clone/
 <h2>Excel Clone<h2>
 
 <h1><b>Description:</b><h1>
