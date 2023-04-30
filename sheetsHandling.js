@@ -1,4 +1,4 @@
-let activeSheetColor="#95afc0";
+let activeSheetColor=" #f5f7f9";
 let addSheet=document.querySelector(".addSheet");
 let sheetsFolderCont=document.querySelector(".sheets-folder-cont");
 addSheet.addEventListener("click",(e)=>{

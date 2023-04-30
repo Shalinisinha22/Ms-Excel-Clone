@@ -219,6 +219,17 @@ position: relative;
 
 }
 
+@media only screen and (max-width:767px) and (min-width:320px){
+  .cellprops-actions-cont {
+ 
+    overflow: auto;
+   
+  }
+  .formula-actions-cont{
+    overflow: auto;
+  }
+}
+
 
 
 
